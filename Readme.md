@@ -63,3 +63,19 @@ Collects permission into one role that can be applied
 
 [Action Policy Gem](https://github.com/palkan/action-policy)
 
+## Keeping Moms for the Long Term
+
+Being a mom in tech sucks:
+
+- parental leave isn't good
+  - more like maternity leave
+  - companies have a huge impact on how much time you can actually take
+
+Flex Schedule allows for unexpected things of raising a kid to not impede your job
+
+Think about parents' needs around company outings or team-building events
+
+Career Growth
+
+- going home and learning more is not an option for parents
+
