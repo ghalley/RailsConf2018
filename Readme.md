@@ -33,3 +33,33 @@ Human Error is never the cause.
 - Seek FORWARD accountability, not backward.
 
 Always look for the second story!
+
+## Acces Denied
+
+Vladimir Dementyev
+@palkan_tula
+
+Authentication - answers "Who's there?"
+Authorization - answers "am I allowed to do that?"
+
+1. Granting and revoking access
+2. How to verify access?
+
+### Discretionary Access Control
+
+Becomes permission records in DB
+
+### Mandatory Access Control
+
+Security clearance check ( a hierarchy of access to compare to )
+
+### Role Based Access Control
+
+Collects permission into one role that can be applied
+
+### Attributed Based Access Control
+
+### How to verify Access?
+
+[Action Policy Gem](https://github.com/palkan/action-policy)
+
