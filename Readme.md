@@ -1,6 +1,8 @@
 # RailsConf 2018
 
-## DHH Keynote
+DHH Keynote
+------
+------
 
 Conceptual Compression:
 
@@ -11,8 +13,11 @@ Conceptual Compression:
   - gets around a lot of gatekeeping in programming
 
 "Leaky Abstractions"
+------
 
-## Who Destroyed 3 Mile Island?
+Who Destroyed 3 Mile Island?
+------
+------
 
 @nmeans
 
@@ -33,8 +38,11 @@ Human Error is never the cause.
 - Seek FORWARD accountability, not backward.
 
 Always look for the second story!
+------
 
-## Acces Denied
+Acces Denied
+------
+------
 
 Vladimir Dementyev
 @palkan_tula
@@ -62,8 +70,11 @@ Collects permission into one role that can be applied
 ### How to verify Access?
 
 [Action Policy Gem](https://github.com/palkan/action-policy)
+------
 
-## Keeping Moms for the Long Term
+Keeping Moms for the Long Term
+------
+------
 
 Being a mom in tech sucks:
 
@@ -78,4 +89,119 @@ Think about parents' needs around company outings or team-building events
 Career Growth
 
 - going home and learning more is not an option for parents
+------
+
+Tools for failing gracefully
+------
+------
+
+1. Maintenance Mode
+    - the fail whale mode
+
+2. Read-Only Mode
+    - no saving of information
+
+3. Feature Flags
+    - allows for controlled experience for when certain things aren't working
+
+4. Rate Limits
+    - Protection from malicious traffic
+    - drops load effectively
+
+5. Stop non-critical work
+    - prioritize what needs to be computed
+
+6. Known Unknowns
+    - features or fixes that you're unsure of
+    - Scientist Gem
+
+7. Circuit Breakers
+    - responsive shut-offs
+    - cutting off things at a certain capacity automatically
+    - hard close
+
+Caveats:
+
+- visibility
+- does it actually work?
+- knowledge vs control
+------
+
+The Practical Guide to Building an Apprenticeship
+------
+------
+
+@megantiu
+
+- Fulfills a real need.
+- Unify and engage your team.
+- create more diverse/inclusive organizations
+
+an entry level job to allow for much more learning
+
+focuses on growth, rather than internships that may focus on a project
+
+You need:
+
+1. A plan
+2. Cash
+3. Buy-in
+
+Decide:
+
+1. Program length
+2. number of apprentices
+3. who's going to do what
+
+You *need* a game plan
+
+### Hiring
+
+establish an ubiased, level playing field
+
+1. Application
+2. Code Challenge
+3. Final Interview
+
+end-to-end anonymization to prevent bias
+
+What does your background bring to the table?
+Tell us about a problem that challenged you?
+
+Numerical review values for data-driven decisions
+
+Code Challenge:
+
+- decide what you want to know
+- figure out what format to use
+- write the code challenge
+
+used a script to anonymize commits and everything
+
+Use an HR platform!
+Don't limit code challenge to one language.
+
+Set Goals for the apprentices
+
+Similar onboarding experience as full time devs
+
+Scavenger hunt!
+
+Include lessons in some foundational concepts like OOP
+
+Early exposure to the product development cycle
+
+Team rotations doing customer facing work.
+
+Apprenticeship Patterns
+
+regular communication, via 1:1
+
+include them in team rotation decisions
+
+don't be afraid to let them fail
+
+look for early warning signs and be proactive about intervening
+
+ensure everyone is on same page for expectations
 
