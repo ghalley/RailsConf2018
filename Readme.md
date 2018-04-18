@@ -13,6 +13,7 @@ Conceptual Compression:
   - gets around a lot of gatekeeping in programming
 
 "Leaky Abstractions"
+
 ------
 
 Who Destroyed 3 Mile Island?
@@ -38,6 +39,7 @@ Human Error is never the cause.
 - Seek FORWARD accountability, not backward.
 
 Always look for the second story!
+
 ------
 
 Acces Denied
@@ -70,6 +72,7 @@ Collects permission into one role that can be applied
 ### How to verify Access?
 
 [Action Policy Gem](https://github.com/palkan/action-policy)
+
 ------
 
 Keeping Moms for the Long Term
@@ -89,6 +92,7 @@ Think about parents' needs around company outings or team-building events
 Career Growth
 
 - going home and learning more is not an option for parents
+
 ------
 
 Tools for failing gracefully
@@ -125,6 +129,7 @@ Caveats:
 - visibility
 - does it actually work?
 - knowledge vs control
+
 ------
 
 The Practical Guide to Building an Apprenticeship
@@ -204,4 +209,24 @@ don't be afraid to let them fail
 look for early warning signs and be proactive about intervening
 
 ensure everyone is on same page for expectations
+
+------
+
+Upgrading Rails at Scale
+------
+------
+
+Stop the bleeding first before developing features/bug fixes, at least on upgrade branch.
+
+Failing tests can be marked and passed anyway to allow use of Continuous Integration so that they can come back to them while still using the CI.
+
+Having more people actively working on the upgrade helps it go faster.
+
+https://github.com/Edouard-chin
+
+------
+
+Here's to the Crazy Ones
+------
+------
 
