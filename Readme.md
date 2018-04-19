@@ -278,3 +278,11 @@ Experiment!
 
 - requires a certain amount of blamelessness
 
+Quick and easy browser testing using RSpec and Rails 5.1
+------
+------
+
+Browser tests have been an insane amount of work, even using capybara setup, plus poltergeist isn't a real browser
+
+some puma editing in Rails 5.1, but fixed in 5.2
+
