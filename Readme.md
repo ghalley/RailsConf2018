@@ -230,3 +230,51 @@ Here's to the Crazy Ones
 ------
 ------
 
+lazyatom.com/crazy-ones
+
+------
+
+Ales on Rails
+------
+------
+
+Brew Gentleman
+
+------
+
+Leveling up a heroic team
+------
+------
+
+@sinthetix
+
+Recognize a problem that needs to be solved
+
+Assemble your team
+
+- importance of shared values
+- importance of shared commitment level
+
+
+Team Compositin should be different roles
+
+- Diversity is a necessity
+
+Utilize strengths
+
+Strong Leaders
+
+Are both guides and servants
+
+Motivate and drive
+
+Keep the team working together!
+
+Communicate Effectively
+
+Central information base
+
+Experiment!
+
+- requires a certain amount of blamelessness
+
