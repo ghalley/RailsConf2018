@@ -278,6 +278,8 @@ Experiment!
 
 - requires a certain amount of blamelessness
 
+------
+
 Quick and easy browser testing using RSpec and Rails 5.1
 ------
 ------
@@ -286,3 +288,29 @@ Browser tests have been an insane amount of work, even using capybara setup, plu
 
 some puma editing in Rails 5.1, but fixed in 5.2
 
+------
+
+Automating Empathy: Test your docs with Swagger and Apivore
+------
+------
+
+1. Implentation docs vs usage docs
+2. It's not a burden when it's a tool for iteration
+3. If you came here you probably need docs
+
+Why are docs so hard?
+
+- we keep forgetting
+- hate updating docs
+- complexity
+
+No need to remember things if you document first then write code.
+
+- have a test that fails until the code matches the docs
+
+Documentation-Driven Development
+
+- create docs that computers can read
+- Swagger/OpenAPI
+
+------
